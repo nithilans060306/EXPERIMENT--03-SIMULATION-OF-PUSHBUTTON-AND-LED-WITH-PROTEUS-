@@ -286,13 +286,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 ### Output when led is off : 
-![Screenshot 2024-10-16 160011](https://github.com/user-attachments/assets/a5db4c28-b394-46be-bb5b-0a4c61030aaf)
+![image](https://github.com/user-attachments/assets/8ce9ce82-3180-4ab1-b0ae-c252b5f5bd7d)
+
 
 ### Output when led is on :
-![image](https://github.com/user-attachments/assets/a35d606a-98c1-466f-ad93-f62bcce4ab1f)
+![image](https://github.com/user-attachments/assets/1de125bc-78d8-460c-a483-06f7e93f8945)
+
 
 ### CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
-![image](https://github.com/user-attachments/assets/8e2d4765-7698-4b00-9670-4251e6750eaa)
+![image](https://github.com/user-attachments/assets/2655fb3e-e75d-4bba-bae5-beb284163f02)
+
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
